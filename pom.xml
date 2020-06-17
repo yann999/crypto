@@ -54,7 +54,11 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
-		
+		<dependency>
+		    <groupId>jca</groupId>
+		    <artifactId>jca</artifactId>
+		    <version>1.5</version>
+		</dependency>
 	</dependencies>
 
 	<build>
